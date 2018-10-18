@@ -24,7 +24,7 @@ apiKey: "XXXXXXXX",
 
 replace with:
 const config = {
-  apiKey: "<--Your Firebase config-->",  
+apiKey: "<--Your Firebase config-->",  
   authDomain:"<--Your Firebase config-->",  
   databaseURL:"<--Your Firebase config-->",  
   projectId:"<--Your Firebase config-->",  
