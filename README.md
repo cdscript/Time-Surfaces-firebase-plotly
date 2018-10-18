@@ -14,36 +14,21 @@ https://firebase.google.com/
 
 
 const config = {
-
-  apiKey: "XXXXXXXX",
-  
-  authDomain: "XXXXXXXX",
-  
-  databaseURL: "XXXXXXXX",
-  
-  projectId: "XXXXXXXX",
-  
-  storageBucket: "XXXXXXXX",
-  
-  messagingSenderId: "XXXXXXXX"
-  
+apiKey: "XXXXXXXX",  
+  authDomain: "XXXXXXXX",  
+  databaseURL: "XXXXXXXX",  
+  projectId: "XXXXXXXX",  
+  storageBucket: "XXXXXXXX",  
+  messagingSenderId: "XXXXXXXX"  
 };
 
 replace with:
-
 const config = {
-
-  apiKey: "<--Your Firebase config-->",
-  
-  authDomain:"<--Your Firebase config-->",
-  
-  databaseURL:"<--Your Firebase config-->",
-  
-  projectId:"<--Your Firebase config-->",
-  
-  storageBucket: "<--Your Firebase config-->",
-  
-  messagingSenderId:"<--Your Firebase config-->"
-  
+  apiKey: "<--Your Firebase config-->",  
+  authDomain:"<--Your Firebase config-->",  
+  databaseURL:"<--Your Firebase config-->",  
+  projectId:"<--Your Firebase config-->",  
+  storageBucket: "<--Your Firebase config-->",  
+  messagingSenderId:"<--Your Firebase config-->"  
 };
 
