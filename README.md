@@ -5,7 +5,7 @@ This is built from watching the example given by a very talented developer @Angu
 https://angularfirebase.com/lessons/realtime-charts-with-plot-ly/
 
 
-# For this example you will need to do the following first 
+# For this example, perform the following tasks first 
 - 1 You will need to perform a: npm install before
 
 - 2 You will need to replace the config object variable in the app.module.ts file
