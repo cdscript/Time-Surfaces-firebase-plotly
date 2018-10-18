@@ -7,7 +7,8 @@ https://angularfirebase.com/lessons/realtime-charts-with-plot-ly/
 
 # For this example you will need to do the following first 
 - 1 You will need to perform a: npm install before
--2 You will need to replace the config object variable in the app.module.ts file
+
+- 2 You will need to replace the config object variable in the app.module.ts file
 
 https://firebase.google.com/
 
