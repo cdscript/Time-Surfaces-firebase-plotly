@@ -14,6 +14,7 @@ import { DocPipe } from "./doc.pipe";
 import { ChartService } from "./services/chart.service";
 import { CoolChartComponent } from "./components/cool-chart/cool-chart.component";
 
+/*
 const config = {
   apiKey: "XXXXXXXX",
   authDomain: "XXXXXXXX",
@@ -21,6 +22,18 @@ const config = {
   projectId: "XXXXXXXX",
   storageBucket: "XXXXXXXX",
   messagingSenderId: "XXXXXXXX"
+};
+
+
+*/
+
+const config = {
+  apiKey: "AIzaSyA1zUZDSMdjLvHIN-NvEoKlx8L3Fg2speE",
+  authDomain: "time-surface-dev.firebaseapp.com",
+  databaseURL: "https://time-surface-dev.firebaseio.com",
+  projectId: "time-surface-dev",
+  storageBucket: "time-surface-dev.appspot.com",
+  messagingSenderId: "1040549515816"
 };
 
 @NgModule({
